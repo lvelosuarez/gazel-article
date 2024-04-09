@@ -24,8 +24,8 @@ header-includes: |
   <meta name="dc.date" content="2024-04-09" />
   <meta name="citation_publication_date" content="2024-04-09" />
   <meta property="article:published_time" content="2024-04-09" />
-  <meta name="dc.modified" content="2024-04-09T13:23:15+00:00" />
-  <meta property="article:modified_time" content="2024-04-09T13:23:15+00:00" />
+  <meta name="dc.modified" content="2024-04-09T13:43:45+00:00" />
+  <meta property="article:modified_time" content="2024-04-09T13:43:45+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -46,9 +46,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://lvelosuarez.github.io/gazel-article/" />
   <meta name="citation_pdf_url" content="https://lvelosuarez.github.io/gazel-article/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://lvelosuarez.github.io/gazel-article/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://lvelosuarez.github.io/gazel-article/v/e79bfdc8ef0ea58bd7fdfa10e84a90c4b6fe8b14/" />
-  <meta name="manubot_html_url_versioned" content="https://lvelosuarez.github.io/gazel-article/v/e79bfdc8ef0ea58bd7fdfa10e84a90c4b6fe8b14/" />
-  <meta name="manubot_pdf_url_versioned" content="https://lvelosuarez.github.io/gazel-article/v/e79bfdc8ef0ea58bd7fdfa10e84a90c4b6fe8b14/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://lvelosuarez.github.io/gazel-article/v/f0ae2a812739832b9ded79290b938ac65507240d/" />
+  <meta name="manubot_html_url_versioned" content="https://lvelosuarez.github.io/gazel-article/v/f0ae2a812739832b9ded79290b938ac65507240d/" />
+  <meta name="manubot_pdf_url_versioned" content="https://lvelosuarez.github.io/gazel-article/v/f0ae2a812739832b9ded79290b938ac65507240d/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -70,9 +70,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://lvelosuarez.github.io/gazel-article/v/e79bfdc8ef0ea58bd7fdfa10e84a90c4b6fe8b14/))
+([permalink](https://lvelosuarez.github.io/gazel-article/v/f0ae2a812739832b9ded79290b938ac65507240d/))
 was automatically generated
-from [lvelosuarez/gazel-article@e79bfdc](https://github.com/lvelosuarez/gazel-article/tree/e79bfdc8ef0ea58bd7fdfa10e84a90c4b6fe8b14)
+from [lvelosuarez/gazel-article@f0ae2a8](https://github.com/lvelosuarez/gazel-article/tree/f0ae2a812739832b9ded79290b938ac65507240d)
 on April 9, 2024.
 </em></small>
 
@@ -126,7 +126,7 @@ Our microbiome communities were similar to those described in the Human Microbio
 
 
 
-1. Introduction
+## Introduction
 Background information on the importance of studying the salivary microbiome and its relevance to human health.
 Overview of previous research on microbiome profiling methods and their limitations.
 Rationale for conducting whole genome sequencing (WGS) of human DNA from saliva samples to assess the reliability of salivary microbiome information.
