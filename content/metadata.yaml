@@ -1,15 +1,16 @@
 ---
-title: "Manuscript Title"
+title: "Performing human whole genome sequencing from saliva samples provides highly reliable information about the salivary microbiome"
 date: null  # Defaults to date generated, but can specify like '2022-10-31'.
 keywords:
-  - markdown
-  - publishing
-  - manubot
+  - saliva
+  - microbiome
+  - sampling
+  - benchmark
 lang: en-US
 authors:
-  - github: johndoe
-    name: John Doe
-    initials: JD
+  - github: lvelosuarez
+    name: Lourdes velo Suarez
+    initials: L
     orcid: XXXX-XXXX-XXXX-XXXX
     twitter: johndoe
     mastodon: johndoe
