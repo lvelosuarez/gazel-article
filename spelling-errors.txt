@@ -1,7 +1,12 @@
+HMP
 janeroe
 johndoe
 lvelosuarez
-microbiome
+metagenomic
+Microbiome
+periodontitis
+resequencing
+rRNA
 velo
 WGS
 XXXX
