@@ -1,13 +1,14 @@
 ---
-title: Manuscript Title
+title: Performing human whole genome sequencing from saliva samples provides highly reliable information about the salivary microbiome
 keywords:
-- markdown
-- publishing
-- manubot
+- saliva
+- microbiome
+- sampling
+- benchmark
 lang: en-US
-date-meta: '2024-04-08'
+date-meta: '2024-04-09'
 author-meta:
-- John Doe
+- Lourdes velo Suarez
 - Jane Roe
 header-includes: |
   <!--
@@ -16,22 +17,22 @@ header-includes: |
   -->
   <meta name="dc.format" content="text/html" />
   <meta property="og:type" content="article" />
-  <meta name="dc.title" content="Manuscript Title" />
-  <meta name="citation_title" content="Manuscript Title" />
-  <meta property="og:title" content="Manuscript Title" />
-  <meta property="twitter:title" content="Manuscript Title" />
-  <meta name="dc.date" content="2024-04-08" />
-  <meta name="citation_publication_date" content="2024-04-08" />
-  <meta property="article:published_time" content="2024-04-08" />
-  <meta name="dc.modified" content="2024-04-08T15:11:27+00:00" />
-  <meta property="article:modified_time" content="2024-04-08T15:11:27+00:00" />
+  <meta name="dc.title" content="Performing human whole genome sequencing from saliva samples provides highly reliable information about the salivary microbiome" />
+  <meta name="citation_title" content="Performing human whole genome sequencing from saliva samples provides highly reliable information about the salivary microbiome" />
+  <meta property="og:title" content="Performing human whole genome sequencing from saliva samples provides highly reliable information about the salivary microbiome" />
+  <meta property="twitter:title" content="Performing human whole genome sequencing from saliva samples provides highly reliable information about the salivary microbiome" />
+  <meta name="dc.date" content="2024-04-09" />
+  <meta name="citation_publication_date" content="2024-04-09" />
+  <meta property="article:published_time" content="2024-04-09" />
+  <meta name="dc.modified" content="2024-04-09T10:27:01+00:00" />
+  <meta property="article:modified_time" content="2024-04-09T10:27:01+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
   <meta name="dc.publisher" content="Manubot" />
   <meta name="citation_journal_title" content="Manubot" />
   <meta name="citation_technical_report_institution" content="Manubot" />
-  <meta name="citation_author" content="John Doe" />
+  <meta name="citation_author" content="Lourdes velo Suarez" />
   <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
   <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
   <meta name="twitter:creator" content="@johndoe" />
@@ -45,9 +46,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://lvelosuarez.github.io/gazel-article/" />
   <meta name="citation_pdf_url" content="https://lvelosuarez.github.io/gazel-article/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://lvelosuarez.github.io/gazel-article/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://lvelosuarez.github.io/gazel-article/v/f92ea1b72211d2543bac7276995d1b69947c6949/" />
-  <meta name="manubot_html_url_versioned" content="https://lvelosuarez.github.io/gazel-article/v/f92ea1b72211d2543bac7276995d1b69947c6949/" />
-  <meta name="manubot_pdf_url_versioned" content="https://lvelosuarez.github.io/gazel-article/v/f92ea1b72211d2543bac7276995d1b69947c6949/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://lvelosuarez.github.io/gazel-article/v/a87885fb41920b79412eff6c3510d766bf23cca1/" />
+  <meta name="manubot_html_url_versioned" content="https://lvelosuarez.github.io/gazel-article/v/a87885fb41920b79412eff6c3510d766bf23cca1/" />
+  <meta name="manubot_pdf_url_versioned" content="https://lvelosuarez.github.io/gazel-article/v/a87885fb41920b79412eff6c3510d766bf23cca1/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,10 +70,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://lvelosuarez.github.io/gazel-article/v/f92ea1b72211d2543bac7276995d1b69947c6949/))
+([permalink](https://lvelosuarez.github.io/gazel-article/v/a87885fb41920b79412eff6c3510d766bf23cca1/))
 was automatically generated
-from [lvelosuarez/gazel-article@f92ea1b](https://github.com/lvelosuarez/gazel-article/tree/f92ea1b72211d2543bac7276995d1b69947c6949)
-on April 8, 2024.
+from [lvelosuarez/gazel-article@a87885f](https://github.com/lvelosuarez/gazel-article/tree/a87885fb41920b79412eff6c3510d766bf23cca1)
+on April 9, 2024.
 </em></small>
 
 
@@ -81,12 +82,12 @@ on April 8, 2024.
 
 
 
-+ **John Doe**
++ **Lourdes velo Suarez**
   <br>
     ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
     [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
     · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
-    [johndoe](https://github.com/johndoe)
+    [lvelosuarez](https://github.com/lvelosuarez)
     · ![Twitter icon](images/twitter.svg){.inline_icon width=16 height=16}
     [johndoe](https://twitter.com/johndoe)
     · ![Mastodon icon](images/mastodon.svg){.inline_icon width=16 height=16}
