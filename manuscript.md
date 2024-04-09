@@ -24,8 +24,8 @@ header-includes: |
   <meta name="dc.date" content="2024-04-09" />
   <meta name="citation_publication_date" content="2024-04-09" />
   <meta property="article:published_time" content="2024-04-09" />
-  <meta name="dc.modified" content="2024-04-09T13:16:47+00:00" />
-  <meta property="article:modified_time" content="2024-04-09T13:16:47+00:00" />
+  <meta name="dc.modified" content="2024-04-09T13:20:39+00:00" />
+  <meta property="article:modified_time" content="2024-04-09T13:20:39+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -46,9 +46,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://lvelosuarez.github.io/gazel-article/" />
   <meta name="citation_pdf_url" content="https://lvelosuarez.github.io/gazel-article/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://lvelosuarez.github.io/gazel-article/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://lvelosuarez.github.io/gazel-article/v/9b67bab242698d3c0180ae32a7100944009dceec/" />
-  <meta name="manubot_html_url_versioned" content="https://lvelosuarez.github.io/gazel-article/v/9b67bab242698d3c0180ae32a7100944009dceec/" />
-  <meta name="manubot_pdf_url_versioned" content="https://lvelosuarez.github.io/gazel-article/v/9b67bab242698d3c0180ae32a7100944009dceec/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://lvelosuarez.github.io/gazel-article/v/60e01908bb53b73ccc4f96983ad72a220bd288bb/" />
+  <meta name="manubot_html_url_versioned" content="https://lvelosuarez.github.io/gazel-article/v/60e01908bb53b73ccc4f96983ad72a220bd288bb/" />
+  <meta name="manubot_pdf_url_versioned" content="https://lvelosuarez.github.io/gazel-article/v/60e01908bb53b73ccc4f96983ad72a220bd288bb/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -70,9 +70,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://lvelosuarez.github.io/gazel-article/v/9b67bab242698d3c0180ae32a7100944009dceec/))
+([permalink](https://lvelosuarez.github.io/gazel-article/v/60e01908bb53b73ccc4f96983ad72a220bd288bb/))
 was automatically generated
-from [lvelosuarez/gazel-article@9b67bab](https://github.com/lvelosuarez/gazel-article/tree/9b67bab242698d3c0180ae32a7100944009dceec)
+from [lvelosuarez/gazel-article@60e0190](https://github.com/lvelosuarez/gazel-article/tree/60e01908bb53b73ccc4f96983ad72a220bd288bb)
 on April 9, 2024.
 </em></small>
 
