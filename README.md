@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/lvelosuarez/gazel-article/tree/gh-pages) branch hosts the contents of this directory at <https://lvelosuarez.github.io/gazel-article/>.
-The permalink for this webpage version is <https://lvelosuarez.github.io/gazel-article/v/e79bfdc8ef0ea58bd7fdfa10e84a90c4b6fe8b14/>.
+The permalink for this webpage version is <https://lvelosuarez.github.io/gazel-article/v/f0ae2a812739832b9ded79290b938ac65507240d/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://lvelosuarez.github.io/gazel-article/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`e79bfdc8ef0ea58bd7fdfa10e84a90c4b6fe8b14`](https://github.com/lvelosuarez/gazel-article/commit/e79bfdc8ef0ea58bd7fdfa10e84a90c4b6fe8b14).
+[`f0ae2a812739832b9ded79290b938ac65507240d`](https://github.com/lvelosuarez/gazel-article/commit/f0ae2a812739832b9ded79290b938ac65507240d).
