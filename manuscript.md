@@ -24,8 +24,8 @@ header-includes: |
   <meta name="dc.date" content="2024-04-11" />
   <meta name="citation_publication_date" content="2024-04-11" />
   <meta property="article:published_time" content="2024-04-11" />
-  <meta name="dc.modified" content="2024-04-11T10:33:57+00:00" />
-  <meta property="article:modified_time" content="2024-04-11T10:33:57+00:00" />
+  <meta name="dc.modified" content="2024-04-11T10:35:53+00:00" />
+  <meta property="article:modified_time" content="2024-04-11T10:35:53+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -46,9 +46,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://lvelosuarez.github.io/gazel-article/" />
   <meta name="citation_pdf_url" content="https://lvelosuarez.github.io/gazel-article/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://lvelosuarez.github.io/gazel-article/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://lvelosuarez.github.io/gazel-article/v/4e1d65100b4d86d3adf1fd4934d800ef69fd7756/" />
-  <meta name="manubot_html_url_versioned" content="https://lvelosuarez.github.io/gazel-article/v/4e1d65100b4d86d3adf1fd4934d800ef69fd7756/" />
-  <meta name="manubot_pdf_url_versioned" content="https://lvelosuarez.github.io/gazel-article/v/4e1d65100b4d86d3adf1fd4934d800ef69fd7756/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://lvelosuarez.github.io/gazel-article/v/13275f108a77de60da02ec206d28a97ac931c752/" />
+  <meta name="manubot_html_url_versioned" content="https://lvelosuarez.github.io/gazel-article/v/13275f108a77de60da02ec206d28a97ac931c752/" />
+  <meta name="manubot_pdf_url_versioned" content="https://lvelosuarez.github.io/gazel-article/v/13275f108a77de60da02ec206d28a97ac931c752/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -70,9 +70,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://lvelosuarez.github.io/gazel-article/v/4e1d65100b4d86d3adf1fd4934d800ef69fd7756/))
+([permalink](https://lvelosuarez.github.io/gazel-article/v/13275f108a77de60da02ec206d28a97ac931c752/))
 was automatically generated
-from [lvelosuarez/gazel-article@4e1d651](https://github.com/lvelosuarez/gazel-article/tree/4e1d65100b4d86d3adf1fd4934d800ef69fd7756)
+from [lvelosuarez/gazel-article@13275f1](https://github.com/lvelosuarez/gazel-article/tree/13275f108a77de60da02ec206d28a97ac931c752)
 on April 11, 2024.
 </em></small>
 
@@ -133,6 +133,8 @@ Rationale for conducting whole genome sequencing (WGS) of human DNA from saliva 
 
 
 
+## 2. MATERIALS AND METHODS
+### 2.1 Data Collection
 
 
 ## References {.page_break_before}
